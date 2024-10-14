@@ -1,0 +1,4 @@
+requests
+Pillow  # Required if using a more advanced screenshot library like Selenium
+selenium  # Optional if using Selenium for screenshots
+webkit2png  # Command-line tool for taking webpage screenshots
